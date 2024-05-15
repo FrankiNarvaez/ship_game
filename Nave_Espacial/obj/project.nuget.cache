@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZRBLfz3FPAYbvE0NeKQPKX7kbJm5UincdS2o/o3l3NtlB52xFG4WPz3Zlf//u+3QKNLHwWr/3JVd5asIxsf7Ng==",
+  "dgSpecHash": "8a+cB3dIBmarfYdaszSt0FttMb/R+3hgWQJgUD3VKPZuUB3AN4LQLerRMxqGIsGYNjZJ+GfJCKGPata7hLz4aA==",
   "success": true,
-  "projectFilePath": "/home/cat/Documentos/Developement/NaveEspacial/Nave_Espacial/Nave_Espacial.csproj",
+  "projectFilePath": "/home/cat/Documentos/Developement/C#/ship_game/Nave_Espacial/Nave_Espacial.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

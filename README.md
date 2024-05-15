@@ -1,2 +1,3 @@
 # ship_game
-this is my first game made in C#
+
+Video game done with C# using console app.
